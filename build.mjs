@@ -8,7 +8,7 @@ const args = process.argv.slice(2);
 const watch = args.some((a) => a === "--watch" || a === "-w");
 
 build({
-  entryPoints: { "aoc-template": "src/main.ts" },
+  entryPoints: { "kol-aoc-02": "src/main.ts" },
   bundle: true,
   minifySyntax: true,
   platform: "node",

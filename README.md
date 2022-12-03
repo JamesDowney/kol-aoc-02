@@ -1,4 +1,4 @@
-# aoc-template
+# kol-aoc-02
 
 template for Advent of Code
 
@@ -22,4 +22,4 @@ When you're developing you can have your files automatically rebuild by keeping
  run dev
 ```
 
-running in the background. If you've already built symlinks, your up-to-date script can be run instantly by entering `aoc-template` into the KoLmafia CLI.
+running in the background. If you've already built symlinks, your up-to-date script can be run instantly by entering `kol-aoc-02` into the KoLmafia CLI.
